@@ -266,6 +266,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#73ac99d1', e
 #about img {
 	float: left;
 	margin-left: 100px;
+	margin-bottom: 100px;
 }
 #about p {
 	margin-top: 100px;
